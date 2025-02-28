@@ -1,1 +1,1 @@
-# My-machine-learning-projects
+# Проекты по машинному обучению
